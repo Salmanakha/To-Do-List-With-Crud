@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "522314050407",
+    "project_id": "basicapp-c4ed8",
+    "storage_bucket": "basicapp-c4ed8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522314050407:android:455a1b0e641c0f947d5dc2",
+        "android_client_info": {
+          "package_name": "com.example.new_crud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzb6zbYUqDAh9AovDHQJi5dar46ycJoyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
